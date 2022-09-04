@@ -21,7 +21,3 @@ function identifyPrimeNumber(num) {
 
     counter==0 ? console.log(`${s} is prime number`) : console.log(`${s} is not prime number`)
 }
-
-
-
-
